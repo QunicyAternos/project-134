@@ -1,0 +1,9 @@
+body{
+    background-color: paleturquoise;
+    color: white;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+canvas{
+    margin-top: 90px;
+}
